@@ -164,6 +164,3 @@ Deploy frontend and backend on Vercel / Heroku for public access.
 GitHub: https://github.com/RahulSamant5/Basic-AI-Grading-Quiz-App
 
 
-<img width="1470" height="956" alt="Screenshot 2025-12-10 at 5 49 24 AM" src="https://github.com/user-attachments/assets/83b057d5-4285-488b-9af0-9325a2be86ab" />
-<img width="1470" height="956" alt="Screenshot 2025-12-10 at 5 49 30 AM" src="https://github.com/user-attachments/assets/29449672-2eb4-4606-a1da-01183691b732" />
-<img width="1470" height="956" alt="Screenshot 2025-12-10 at 5 49 40 AM" src="https://github.com/user-attachments/assets/2df7391c-1338-49ea-adb8-13788fa9f6c4" />
